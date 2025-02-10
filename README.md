@@ -1,6 +1,6 @@
-# Nuxt Minimal Starter
+# Ozone (O3) Emission Data Viewer
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This project is a web application for viewing ozone (O3) emission data for the station in Radebeul Wahnsdorf. It allows users to select a date range and view the data in either a table or a plot format.
 
 ## Setup
 
@@ -72,4 +72,16 @@ yarn preview
 bun run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## Features
+
+- Select start and end dates to filter data
+- View data in a table format
+- View data in a plot format
+
+## Technologies Used
+
+- TypeScript
+- JavaScript
+- Vue.js
+- Nuxt.js
+- Plotly.js
